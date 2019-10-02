@@ -3332,3 +3332,17 @@ input, select, textarea {
 			}
 
 	}
+
+/* project info */
+
+	.proj-info {
+		padding-top: 20px;
+	}
+
+	.proj-info li {
+		font-size: 15px;
+	}
+
+	.proj-info ul {
+		margin: 0;
+	}
